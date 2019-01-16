@@ -1,0 +1,235 @@
+# shamelessly grabbed from https://github.com/wesbos/dad-jokes/
+# manually converted into a yaml file
+# escaped single quotes
+- q: |-
+    *Q:* How did the developer announce their engagement?
+  a: |-
+    *A:* They `return`ed `true`!
+- q: |-
+    *Q:* What do you call a busy waiter?
+  a: |-
+    *A:* A server.
+- q: |-
+    *Q:* What do you call an idle server?
+  a: |-
+    *A:* A waiter.
+- q: |-
+    *Q:* How many Prolog programmers does it take to change a lightbulb?
+  a: |-
+    *A:* Yes.
+- q: |-
+    *Q:*  What diet did the ghost developer go on?
+  a: |-
+    *A:* Boolean
+- q: |-
+    *Q:* Why was the developer unhappy at their job?
+  a: |-
+    *A:* They wanted arrays.
+- q: |-
+    *Q:* Why did 10 get paid less than "10"?
+  a: |-
+    *A:* There was workplace inequality.
+- q: |-
+    *Q:* Why was the function sad after a successful first call?
+  a: |-
+    *A:* It didn’t get a callback.
+- q: |-
+    *Q:* Why did the angry function exceed the callstack size?
+  a: |-
+    *A:* It got into an Argument with itself
+- q: |-
+    *Q:* Whats the object-oriented way to become wealthy?
+  a: |-
+    *A:* Inheritance
+- q: |-
+    *Q:* Why did the developer ground their kid?
+  a: |-
+    *A:* They weren't telling the truthy
+- q: |-
+    *Q:* What did the array say after it was extended?
+  a: |-
+    *A:* Stop objectifying me.
+- q: |-
+    *Q:* Where did the parallel function wash its hands?
+  a: |-
+    *A:* Async
+- q: |-
+    *Q:* I'm starting a band called HTML Encoder
+  a: |-
+    *A:* Looking to buy a guitar \&amp;
+- q: |-
+    *Q:* Why did the functions stop calling each other?
+  a: |-
+    *A:* Because they had constant arguments.
+- q: |-
+    *Q:* What's the second movie about a database engineer called?
+  a: |-
+    *A:* The SQL.
+- q: |-
+    *Q:* What did the spider do on the computer?
+  a: |-
+    *A:* Made a website!
+- q: |-
+    *Q:* What did the computer do at lunchtime?
+  a: |-
+    *A:* Had a byte!
+- q: |-
+    *Q:* What does a baby computer call his father?
+  a: |-
+    *A:* Data!
+- q: |-
+    *Q:* Why did the computer keep sneezing?
+  a: |-
+    *A:* It had a virus!
+- q: |-
+    *Q:* What is a computer virus?
+  a: |-
+    *A:* A terminal illness!
+- q: |-
+    *Q:* Why was the computer cold?
+  a: |-
+    *A:* It left its Windows open!
+- q: |-
+    *Q:* Why was there a bug in the computer?
+  a: |-
+    *A:* Because it was looking for a byte to eat?
+- q: |-
+    *Q:* Why did the computer squeak?
+  a: |-
+    *A:* Because someone stepped on its mouse!
+- q: |-
+    *Q:* What do you get when you cross a computer and a life guard?
+  a: |-
+    *A:* A screensaver!
+- q: |-
+    *Q:* Where do all the cool mice live?
+  a: |-
+    *A:* In their mousepads!
+- q: |-
+    *Q:* What do you get when you cross a computer with an elephant?
+  a: |-
+    *A:* Lots of memory!
+- q: |-
+    *Q:* How do programming pirates pass method parameters?
+  a: |-
+    *A:* Varrrrarrrgs.
+- q: |-
+    *Q:* How do programming shepherds count their flock?
+  a: |-
+    *A:* With lambda functions
+- q: |-
+    *Q:* How did pirates collaborate before computers ?
+  a: |-
+    *A:* Pier to pier networking.
+- q: |-
+    *Q:* Why don't bachelors like Git?
+  a: |-
+    *A:* Because they are afraid to commit.
+- q: |-
+    *Q:* A SQL query goes into a bar, walks up to two tables and asks:
+  a: |-
+    *A:* Can I JOIN you?
+- q: |-
+    *Q:* How does a developer make a cheer?
+  a: |-
+    *A:* ["hip","hip"] // (hip hip array!)
+- q: |-
+    *Q:* Why was the developer's family upset with them at dinner?
+  a: |-
+    *A:* They forgot to git squash before going home
+- q: |-
+    *Q:* What did JavaScript call his son?
+  a: |-
+    *A:* JSON!
+- q: |-
+    *Q:* What did the proud React component say to its child?
+  a: |-
+    *A:* I've got to give you props
+- q: |-
+    *Q:* What did the server say to his client who was having a bad day?
+  a: |-
+    *A:* Everything's going to be 200
+- q: |-
+    *Q:* Why did the developer go broke?
+  a: |-
+    *A:* Because they used up all their cache
+- q: |-
+    *Q:* Are computers dangerous?
+  a: |-
+    *A:* Nah, they don't byte. They just nibble a bit.
+- q: |-
+    *Q:* How did the mafioso kill the Node server?
+  a: |-
+    *A:* Tie await to it and let it async.
+- q: |-
+    *Q:* You know what the best thing about booleans is?
+  a: |-
+    *A:* Even if you are wrong, you are only off by a bit.
+- q: |-
+    *Q:* Why couldn’t the user update a file on a shared server?
+  a: |-
+    *A:* They didn’t have the write permissions
+- q: |-
+    *Q:* What do you do when you can't understand your husband's behavior?
+  a: |-
+    *A:* man man
+- q: |-
+    *Q:* How many developers does it take to change a light bulb?
+  a: |-
+    *A:* None. It's a hardware issue
+- q: |-
+    *Q:* Why do programmers always mix up Halloween and Christmas?
+  a: |-
+    *A:* Because 31 OCT == 25 DEC
+- q: |-
+    *Q:* What are computers' favorite snacks?
+  a: |-
+    *A:* Microchips, phish sticks, and cookies. But just a few bytes of each.
+- q: |-
+    *Q:* What do computers love to do at the beach?
+  a: |-
+    *A:* Put on some spam block for protection so they can safely surf the net while catching some .WAVs!
+- q: |-
+    *Q:* What's a compiler developer's favorite spice?
+  a: |-
+    *A:* Parsley.
+- q: |-
+    *Q:* A SQL developer walked into a NoSQL bar.
+  a: |-
+    *A:* They left because they couldn't find a table.
+- q: |-
+    *Q:* How do you help JS errors?
+  a: |-
+    *A:* You `console` them!
+- q: |-
+    *Q:* Why don't parents teach their kids about regular expressions?
+  a: |-
+    *A:* Because they don't want them playing with matches
+- q: |-
+    *Q:* Why didn't the `<div />` get invited to the dinner party?
+  a: |-
+    *A:* Because it had no class!
+- q: |-
+    *Q:* Why did the constant break up with the variable?
+  a: |-
+    *A:* Because they changed.
+- q: |-
+    *Q:* Why did the database administrator leave his wife?
+  a: |-
+    *A:* She had one-to-many relationships.
+- q: |-
+    *Q:* What did the Class say in court when put on trial?
+  a: |-
+    *A:* I strongly object!
+- q: |-
+    *Q:* Why do Java developers wear glasses?
+  a: |-
+    *A:* Because they don't C#!
+- q: |-
+    *Q:* What are the three hardest problems in computer science?
+  a: |-
+    *A:* Naming things and off-by-one errors
+- q: |-
+    *Q:* What did the fruit basket say to the developer?
+  a: |-
+    *A:* I hope you're ready for some pear programming!
