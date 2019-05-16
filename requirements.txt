@@ -8,5 +8,5 @@ certifi==2019.3.9       # via requests
 chardet==3.0.4            # via requests
 idna==2.8                 # via requests
 pyyaml==5.1
-requests==2.21.0
+requests==2.22.0
 urllib3==1.25.2           # via requests
